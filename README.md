@@ -9,6 +9,7 @@
 
 
 ## End Assignment
+[Figma File](https://www.figma.com/design/dsgGXcu5WELIvRW90m5308/Pokemon-Code-Challenge?node-id=1-2&t=YPvOeo8ucY720wJ5-4)
 
 ### Required items
 ‼️ Check off each item to get a 5.5 grade. Implement optional items to get a higher grade.
