@@ -47,7 +47,7 @@ https://github.com/i-voted-for-trump/is-even
 # ✅ Compatibility check
 
 - Version support?
-- Any Github issues (Android/iOS)/
+- Any Github issues (Android/iOS)
 
 ---
 
@@ -68,3 +68,4 @@ VS
 - Rich contributions or stars?
 - Documentation?
 - Tests, passing CI/CD, etc.
+- Secure? [Shai Hulud anyone?](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
