@@ -2,10 +2,10 @@
 
 ## Slide decks
 
-- [Theming](slides/theming.md)
-- [Project Structure](slides/project-structure.md)
-- [Dependencies](slides/dependencies.md)
-- [Use of AI](slides/use-ai.md)
+- [Theming](https://levizimmerman.github.io/inholland-react-native-course-3/slides/theming.html)
+- [Project Structure](https://levizimmerman.github.io/inholland-react-native-course-3/slides/project-structure.html)
+- [Dependencies](https://levizimmerman.github.io/inholland-react-native-course-3/slides/dependencies.html)
+- [Use of AI](https://levizimmerman.github.io/inholland-react-native-course-3/slides/use-ai.html)
 
 
 ## End Assignment
