@@ -62,6 +62,73 @@ Each optional item is worth 1 extra point.
 - [ ] Added [localizations](https://docs.expo.dev/guides/localization/) for the app.
 - [ ] Adds Pokémon Battle Feature.
 
+### Hand in instructions
+
+- Upload your project to GitHub.
+- Send me the Github link to me in [Teams](https://teams.microsoft.com/l/chat/48:notes/conversations?context=%7B%22contextType%22%3A%22chat%22%7D).
+- In the README.md file, add a section with the checked off items from the list above. The markdown for this is available below to copy.
+
+FYI: To check off items, use the checkbox syntax from markdown.
+
+```md
+- [ ] Unchecked
+- [x] Checked
+```
+
+<details>
+<summary>📝 Markdown template for checked off items</summary>
+
+```md
+#### App functionality
+
+- [ ] Working Expo Go project, should be able to scan the QR code and see the app running on any device.
+- [ ] PokeAPI is used to fetch Pokemon data https://pokeapi.co/
+  - [ ] List of Pokemon is loaded from the API.
+  - [ ] Pokemon details (metadata, stats, evolution chain) are loaded from the API.
+- [ ] List of Pokemon is displayed in a FlatList.
+  - [ ] Must be able to filter the list by name using the search bar.
+- [ ] Pokemon details are displayed in a ScrollView.
+  - [ ] Must be able to navigate to the Pokemon details page from the list.
+  - [ ] Must be able to favorite the Pokemon.
+  - [ ] Must display type(s) for the Pokemon and use a unique color for each type.
+  - [ ] Pokemon detail tabs should be swipeable left and right.
+- [ ] Favorites list is displayed in a FlatList.
+  - [ ] Must be able to navigate to the Pokemon details page from the favorites list.
+  - [ ] Must be able to unfavorite the Pokemon.
+  - [ ] Empty state must be displayed when there are no favorites.
+- [ ] Pokemon actions must include:
+    - [ ] Favorite.
+    - [ ] Share.
+    - [ ] Open in detail view.
+- [ ] All async operations must include an loading and error state.
+    - [ ] Fetching Pokemon list.
+    - [ ] Fetching Pokemon details.
+    - [ ] Fetching Pokemon evolution chain.
+
+#### Project setup
+- [ ] Tanstack Query for API calls.
+- [ ] Expo Router for navigation.
+- [ ] SQLite for local storage.
+- [ ] Uses Typescript with no TS errors.
+- [ ] Uses ESLint with no ESLint errors. (ideally use [React Compiler Linter](https://docs.expo.dev/guides/react-compiler/#enabling-the-linter))
+- [ ] Uses Separation of Concerns (determine a project structure that follows this principle).
+- [ ] Expo Font is used to implement [the font](./assets/fonts.zip).
+
+
+### Optional items
+Each optional item is worth 1 extra point.
+
+- [ ] Use of animations (e.g. loading in UI elements).
+- [ ] Dark mode support (making use of theming).
+- [ ] Pokemon list is paginated and infinite scroll is used.
+- [ ] Clean Typescript: no use of `any`, typecasting `as SomeType`, or TS ignore comments.
+- [ ] Pixel Perfect Design on either iOS or Android.
+- [ ] No bugs, console errors and use of console.log.
+- [ ] Added [localizations](https://docs.expo.dev/guides/localization/) for the app.
+- [ ] Adds Pokémon Battle Feature.
+```
+</details>
+
 ## References
 Useful links to read up on:
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react)
