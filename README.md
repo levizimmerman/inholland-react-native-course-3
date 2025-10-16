@@ -63,7 +63,9 @@ Each optional item is worth 1 extra point.
 - [ ] Pixel Perfect Design on either iOS or Android.
 - [ ] No bugs, console errors and use of console.log.
 - [ ] Added [localizations](https://docs.expo.dev/guides/localization/) for the app.
-- [ ] Adds Pokémon Battle Feature (example of how a Pokémon battle feature looks like: https://www.youtube.com/watch?v=3mJl-XBo8i4), this is worth a 💯 points!
+- [ ] Adds Pokémon Battle Feature, this is worth a 💯 points!
+
+<video src="./assets/pokemon-battle.mp4" width="320"></video>
 
 ### Hand in instructions
 
