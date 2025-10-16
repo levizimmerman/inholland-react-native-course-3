@@ -9,7 +9,10 @@
 
 
 ## End Assignment
-[Figma File](https://www.figma.com/design/dsgGXcu5WELIvRW90m5308/Pokemon-Code-Challenge?node-id=1-2&t=YPvOeo8ucY720wJ5-4)
+
+> ‼️ **Deliver before November 2nd before 23:59.**
+
+[Figma File](https://www.figma.com/design/dsgGXcu5WELIvRW90m5308/Pokémon-Code-Challenge?node-id=1-2&t=YPvOeo8ucY720wJ5-4)
 
 ### Required items
 ‼️ Check off each item to get a 5.5 grade. Implement optional items to get a higher grade.
@@ -17,28 +20,28 @@
 #### App functionality
 
 - [ ] Working Expo Go project, should be able to scan the QR code and see the app running on any device.
-- [ ] PokeAPI is used to fetch Pokemon data https://pokeapi.co/
-  - [ ] List of Pokemon is loaded from the API.
-  - [ ] Pokemon details (metadata, stats, evolution chain) are loaded from the API.
-- [ ] List of Pokemon is displayed in a FlatList.
+- [ ] PokeAPI is used to fetch Pokémon data https://pokeapi.co/
+  - [ ] List of Pokémon is loaded from the API.
+  - [ ] Pokémon details (metadata, stats, evolution chain) are loaded from the API.
+- [ ] List of Pokémon is displayed in a FlatList.
   - [ ] Must be able to filter the list by name using the search bar.
-- [ ] Pokemon details are displayed in a ScrollView.
-  - [ ] Must be able to navigate to the Pokemon details page from the list.
-  - [ ] Must be able to favorite the Pokemon.
-  - [ ] Must display type(s) for the Pokemon and use a unique color for each type.
-  - [ ] Pokemon detail tabs should be swipeable left and right.
+- [ ] Pokémon details are displayed in a ScrollView.
+  - [ ] Must be able to navigate to the Pokémon details page from the list.
+  - [ ] Must be able to favorite the Pokémon.
+  - [ ] Must display type(s) for the Pokémon and use a unique color for each type.
+  - [ ] Pokémon detail tabs should be swipeable left and right.
 - [ ] Favorites list is displayed in a FlatList.
-  - [ ] Must be able to navigate to the Pokemon details page from the favorites list.
-  - [ ] Must be able to unfavorite the Pokemon.
+  - [ ] Must be able to navigate to the Pokémon details page from the favorites list.
+  - [ ] Must be able to unfavorite the Pokémon.
   - [ ] Empty state must be displayed when there are no favorites.
-- [ ] Pokemon actions must include:
+- [ ] Pokémon actions must include:
     - [ ] Favorite.
-    - [ ] Share.
+    - [ ] Share, use the [Share API](https://reactnative.dev/docs/share). You can share anything, Pokémon name, url to the Pokémon image.
     - [ ] Open in detail view.
 - [ ] All async operations must include an loading and error state.
-    - [ ] Fetching Pokemon list.
-    - [ ] Fetching Pokemon details.
-    - [ ] Fetching Pokemon evolution chain.
+    - [ ] Fetching Pokémon list.
+    - [ ] Fetching Pokémon details.
+    - [ ] Fetching Pokémon evolution chain.
 
 #### Project setup
 - [ ] Tanstack Query for API calls.
@@ -55,12 +58,12 @@ Each optional item is worth 1 extra point.
 
 - [ ] Use of animations (e.g. loading in UI elements).
 - [ ] Dark mode support (making use of theming).
-- [ ] Pokemon list is paginated and infinite scroll is used.
+- [ ] Pokémon list is paginated and infinite scroll is used.
 - [ ] Clean Typescript: no use of `any`, typecasting `as SomeType`, or TS ignore comments.
 - [ ] Pixel Perfect Design on either iOS or Android.
 - [ ] No bugs, console errors and use of console.log.
 - [ ] Added [localizations](https://docs.expo.dev/guides/localization/) for the app.
-- [ ] Adds Pokémon Battle Feature.
+- [ ] Adds Pokémon Battle Feature (example of how a Pokémon battle feature looks like: https://www.youtube.com/watch?v=3mJl-XBo8i4), this is worth a 💯 points!
 
 ### Hand in instructions
 
@@ -82,28 +85,28 @@ FYI: To check off items, use the checkbox syntax from markdown.
 #### App functionality
 
 - [ ] Working Expo Go project, should be able to scan the QR code and see the app running on any device.
-- [ ] PokeAPI is used to fetch Pokemon data https://pokeapi.co/
-  - [ ] List of Pokemon is loaded from the API.
-  - [ ] Pokemon details (metadata, stats, evolution chain) are loaded from the API.
-- [ ] List of Pokemon is displayed in a FlatList.
+- [ ] PokeAPI is used to fetch Pokémon data https://pokeapi.co/
+  - [ ] List of Pokémon is loaded from the API.
+  - [ ] Pokémon details (metadata, stats, evolution chain) are loaded from the API.
+- [ ] List of Pokémon is displayed in a FlatList.
   - [ ] Must be able to filter the list by name using the search bar.
-- [ ] Pokemon details are displayed in a ScrollView.
-  - [ ] Must be able to navigate to the Pokemon details page from the list.
-  - [ ] Must be able to favorite the Pokemon.
-  - [ ] Must display type(s) for the Pokemon and use a unique color for each type.
-  - [ ] Pokemon detail tabs should be swipeable left and right.
+- [ ] Pokémon details are displayed in a ScrollView.
+  - [ ] Must be able to navigate to the Pokémon details page from the list.
+  - [ ] Must be able to favorite the Pokémon.
+  - [ ] Must display type(s) for the Pokémon and use a unique color for each type.
+  - [ ] Pokémon detail tabs should be swipeable left and right.
 - [ ] Favorites list is displayed in a FlatList.
-  - [ ] Must be able to navigate to the Pokemon details page from the favorites list.
-  - [ ] Must be able to unfavorite the Pokemon.
+  - [ ] Must be able to navigate to the Pokémon details page from the favorites list.
+  - [ ] Must be able to unfavorite the Pokémon.
   - [ ] Empty state must be displayed when there are no favorites.
-- [ ] Pokemon actions must include:
+- [ ] Pokémon actions must include:
     - [ ] Favorite.
     - [ ] Share.
     - [ ] Open in detail view.
 - [ ] All async operations must include an loading and error state.
-    - [ ] Fetching Pokemon list.
-    - [ ] Fetching Pokemon details.
-    - [ ] Fetching Pokemon evolution chain.
+    - [ ] Fetching Pokémon list.
+    - [ ] Fetching Pokémon details.
+    - [ ] Fetching Pokémon evolution chain.
 
 #### Project setup
 - [ ] Tanstack Query for API calls.
@@ -120,7 +123,7 @@ Each optional item is worth 1 extra point.
 
 - [ ] Use of animations (e.g. loading in UI elements).
 - [ ] Dark mode support (making use of theming).
-- [ ] Pokemon list is paginated and infinite scroll is used.
+- [ ] Pokémon list is paginated and infinite scroll is used.
 - [ ] Clean Typescript: no use of `any`, typecasting `as SomeType`, or TS ignore comments.
 - [ ] Pixel Perfect Design on either iOS or Android.
 - [ ] No bugs, console errors and use of console.log.
