@@ -65,7 +65,7 @@ Each optional item is worth 1 extra point.
 - [ ] Added [localizations](https://docs.expo.dev/guides/localization/) for the app.
 - [ ] Adds Pokémon Battle Feature, this is worth a 💯 points!
 
-<video src="./assets/pokemon-battle.mp4" width="320"></video>
+https://github.com/user-attachments/assets/634a72c3-d79d-4452-a650-2b80561c8d43
 
 ### Hand in instructions
 
